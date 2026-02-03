@@ -11,11 +11,11 @@ git clone https://github.com/googIyEYES/ArchSpace-Splashscreen.git && cd ArchSpa
 <h5>Install</h5>
 
 ```
-kpackagetool5 -t Plasma/LookAndFeel -i archspace.tar.gz
+kpackagetool6 -t Plasma/LookAndFeel -i archspace.tar.gz
 ```
 
 <h5>Remove</h5>
 
 ```
-kpackagetool5 -t Plasma/LookAndFeel -r archspace
+kpackagetool6 -t Plasma/LookAndFeel -r archspace
 ```
